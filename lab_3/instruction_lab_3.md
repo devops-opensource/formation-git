@@ -1,6 +1,3 @@
-
-# Théorie
-
 # Contexte
 ## But du laboratoire
 ### Quoi
