@@ -34,19 +34,10 @@ Maintenant que le fichier a été ajouté dans le répertoire local, regardons a
 git status
 ```
 
-Ajouter le fichier "index.html" à l'index des modifications en utilisant la commande suivante :
-```bash
-git add index.html
-```
-
-Exécutons a nouveau la commande de statut:
-```bash
-git status
-```
-
-Comparons maintenant la différence:
+Vous obtiendrez comme réponse:
 ```bash
 On branch main
+
 No commits yet
 
 Untracked files:
@@ -55,7 +46,29 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 ```
 
-Réaliser votre premier Commit en utilisant la commande suivante :
+Ajouter le fichier "index.html" à l'index des modifications en utilisant la commande suivante :
+```bash
+git add index.html
+```
+
+Exécutons à nouveau la commande de statut:
+```bash
+git status
+```
+
+Comparons maintenant la différence:
+```bash
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   index.html
+```
+
+
+Réaliser votre premier commit en utilisant la commande suivante :
 
 ```bash
 git commit -m "Ajout du fichier index.html"
@@ -66,7 +79,10 @@ Avec ces étapes, vous avez créé un nouveau dépôt Git, ajouté un nouveau fi
 
 # Conclusion
 ### État du laboratoire 
-A la fin de ce laboratoire vous devriez avoir:
+A la fin de ce laboratoire vous devriez savoir:
+- Créer un dépôt Git sur votre poste de travail
+- Ajouter un fichier à l'index
+- Realiser un commit
 
 ### Allez plus loin 
 
