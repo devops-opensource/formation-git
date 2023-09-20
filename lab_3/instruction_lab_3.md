@@ -39,7 +39,7 @@ Maintenant que votre dépôt distant a été créé, il est temps de le lier au 
 ## Synchroniser son dépôt local avec le dépôt distant
 
 Pour voir comment récupérer des changements faits par une autre personne, nous allons simuler des changements sur le dépot distant en éditant notre index.html depuis notre navigateur :
-- dans votre dépôt distant, cliquez sur index.html, cela ouvrira un éditeur
+- dans votre dépôt distant, cliquez sur index.html, puis cliquez sur le crayon à droite "edit this file", cela ouvrira un éditeur
 - Procédez à quelques changements dans le texte, en ajoutant des points d'exclamation par exemple
 - Enregistrez et commitez les modifications en cliquant sur le bouton "commit changes"
 - Laissez le message de commit par défaut et appuyer une seconde fois sur le bouton "commit changes"
