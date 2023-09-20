@@ -57,6 +57,3 @@ A la fin de ce laboratoire vous devriez savoir:
 - Créer un dépôt sur Github
 - Pousser des changements sur un dépôt distant
 - Récupérer des changements depuis un dépôt distant
-
-### Allez plus loin 
-

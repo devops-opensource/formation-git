@@ -80,9 +80,3 @@ A la fin de ce laboratoire vous devriez savoir:
 - Créer un dépôt Git sur votre poste de travail
 - Ajouter un fichier à l'index
 - Realiser un commit
-
-### Allez plus loin 
-
-```bash 
-git log --graph --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%an%C(reset)%C(bold yellow)%d%C(reset) %C(dim white)- %s%C(reset)' --all
-```

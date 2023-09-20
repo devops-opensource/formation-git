@@ -13,13 +13,13 @@ Se préparer à la réalité du travail en équipe sur un dépot Git
 ## Générer un conflit
 
 Pour générer un conflit nous allons faire comme dans le lab précédent et éditer index.html depuis notre navigateur.
-- Ouvrez index.html et effectuez quelques changements, en ajoutant par exemple "J'adore git" après le texte "Hello World".
+- Ouvrez index.html et effectuez quelques changements, en ajoutant par exemple "J'adore git" sur une nouvelle ligne.
 - Enregistrez et commitez les modifications en cliquant sur le bouton "commit changes"
 - Laissez le message de commit par défaut et appuyer une seconde fois sur le bouton "commit changes"
 
 Maintenant nous allons le modifier en local, sans le synchroniser avec le dépôt distant au préalable:
 - Ouvrez index.html en local avec votre éditeur de texte/code favori
-- Procédez à quelques changements dans le texte, mais différents de ceux faire sur le dépôt distant, par exemple "Git c'est top!"
+- Procédez à quelques changements dans le texte, mais différents de ceux faire sur le dépôt distant, par exemple en ajoutant "Git c'est top!" sur une nouvelle ligne
 - Enregistrez et commitez les modifications
 
 Ainsi nous avons créé une source de conflit, car nous avons fait divergé les historiques de nos deux dépôts.
@@ -65,6 +65,3 @@ On peut ensuite sauvegarder le fichier, l'ajouter à l'index, faire un nouveau c
 A la fin de ce laboratoire vous devriez savoir:
 - D'où peut venir un conflit
 - Comment résoudre un conflit
-
-### Allez plus loin 
-
