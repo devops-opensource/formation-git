@@ -4,7 +4,7 @@
 Installer les éléments préalables nécessaire a la journée de formation
 
 ### Pourquoi
-Focuser sur l'apprentissage dans la journée de formation et non sur l'installatio 
+Focuser sur l'apprentissage dans la journée de formation et non sur l'installation
 
 # Instruction
 ## Télécharger Git pour Windows
